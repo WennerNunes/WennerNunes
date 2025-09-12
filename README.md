@@ -1,30 +1,57 @@
-# Hi there, I'm Wenner Nunes 👋
+# 👋 Hi, I'm Wenner Nunes
 
-🌍 Brazilian-born, based in the UK  
-💻 Aspiring **Full Stack Developer** | Passionate about Web & Mobile development  
-📚 Currently learning **JavaScript, React, and Flutter**  
-🚀 Transitioning career from self-employed gardener to software development  
-
----
-
-## 🔧 Tech Stack & Tools
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Mobile:** Flutter (beginner level)  
-- **Database:** Firebase, SQLite (basic knowledge)  
-- **Other:** Git, GitHub, VS Code  
+💻 Front-End Developer passionate about building clean, responsive, and user-friendly web applications.  
+🌍 Based in the UK, originally from Brazil.  
+🚀 Currently expanding my skills in **JavaScript, React, and Full-Stack Development**.  
 
 ---
 
 ## 📌 Featured Projects
-- [**Compound Interest Calculator**](https://github.com/WennerNunes/compound-interest-calculator) – A web tool to calculate compound interest, built with HTML, CSS, and JavaScript.  
-- More projects coming soon... 🚀  
+
+### 🔹 [Compound Interest Calculator](https://github.com/WennerNunes/compound-interest-calculator)  
+An interactive tool that helps users calculate and visualize compound interest over time.  
+**Tech:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 🌐 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/wenner-luiz-santana-nunes-122712205)  
-- [GitHub](https://github.com/WennerNunes)  
+### 🔹 [IMC Calculator](https://github.com/WennerNunes/IMC-Calculator)  
+A Body Mass Index calculator that provides quick feedback on weight classification.  
+**Tech:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-✨ *Always learning, always building!*
+
+### 🔹 [Space Login Project](https://github.com/WennerNunes/Space-login-Project)  
+A modern login and registration system created for a client, featuring form validation, password toggle, and a sleek design.  
+**Tech:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+
+---
+
+## 📈 GitHub Stats
+
+![Wenner's GitHub stats](https://github-readme-stats.vercel.app/api?username=WennerNunes&show_icons=true&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/wenner-luiz-santana-nunes-122712205)  
+- 📂 [GitHub Portfolio](https://github.com/WennerNunes)
+
 
