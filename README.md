@@ -8,6 +8,18 @@
 
 ## 📌 Featured Projects
 
+### ☕ [CoffeeFlow](https://github.com/WennerNunes/Coffee-Flow) — [🔗 Live Demo](https://coffeeflowapp.netlify.app)
+A financial management app built for a small coffee farming operation — track income, expenses, and view monthly summaries in one place. Deployed live on Netlify.
+
+**Tech:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![LocalStorage](https://img.shields.io/badge/LocalStorage-6E40C9?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
 ### 🔹 [Household Budget Organizer](https://github.com/WennerNunes/Household-Budget-Organizer)  
 A personal finance web app that helps users plan their monthly budget, track expenses, and visualize spending through interactive charts.  
 
